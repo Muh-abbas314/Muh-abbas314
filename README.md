@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 
 <img alt="react-gif" width="100%" src="https://miro.medium.com/v2/resize:fit:1000/1*nwhfNwNtPw-bPg8WC9uCBg.gif">
 </br>
-<h1 align="left">Hi 👋, I'm Muhammad Abbas</h1>
-<h3 align="left">I am a Software Engineer & Tech Enthusiast from Lahore, Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Abbas</h1>
+<h3 align="center">I am a Software Engineer & Tech Enthusiast from Lahore, Pakistan</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muh-abbas314&label=Profile%20views&color=0e75b6&style=flat" alt="muh-abbas314" /> </p>
