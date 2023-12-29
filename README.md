@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="react-gif" width="400" src="https://miro.medium.com/v2/resize:fit:1000/1*nwhfNwNtPw-bPg8WC9uCBg.gif">
-
+<img alt="react-gif" width="500" src="https://miro.medium.com/v2/resize:fit:1000/1*nwhfNwNtPw-bPg8WC9uCBg.gif">
+</br>
 <h1 align="center">Hi 👋, I'm Muhammad Abbas</h1>
 <h3 align="center">I am a Software Engineer & Tech Enthusiast from Lahore,Pakistan</h3>
 
