@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Muh-abbas314/Muh-abbas314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,14 +11,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Muhammad Abbas</h1>
 <h3 align="center">I am a Software Engineer & Tech Enthusiast from Lahore,Pakistan</h3>
+<img align="right" alt="react-gif" width="400" src="https://miro.medium.com/v2/resize:fit:1000/1*nwhfNwNtPw-bPg8WC9uCBg.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muh-abbas314&label=Profile%20views&color=0e75b6&style=flat" alt="muh-abbas314" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👯 I am looking to collaborate on [Web Projects](Web Projects)
+- 👯 I am looking to collaborate on Web Development Projects
 
 - 💬 Ask me about **ReactJS, NextJS & Node**
 
