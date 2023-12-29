@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 
 <img alt="react-gif" width="100%" src="https://cdn.theatlantic.com/thumbor/XdXoNLVVKQfgmI1GFNYaXsuArKY=/3x0:1594x835/960x504/media/img/mt/2018/12/BH_1300lede_1/original.gif">
 
-  <!-- <source src="movie.ogg" type="video/ogg"> -->
-  Your browser does not support the video tag.
-</video>
+
 </br>
 <h1 align="center">Hi 👋, I'm Muhammad Abbas</h1>
 <h3 align="center">I am a Software Engineer & Tech Enthusiast from Lahore, Pakistan</h3>
