@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" alt="react-gif" width="100vw" height="60vh" src="https://cdn.theatlantic.com/thumbor/XdXoNLVVKQfgmI1GFNYaXsuArKY=/3x0:1594x835/960x504/media/img/mt/2018/12/BH_1300lede_1/original.gif">
+<img align="center" alt="react-gif" width="100%" height="90%" src="https://cdn.theatlantic.com/thumbor/XdXoNLVVKQfgmI1GFNYaXsuArKY=/3x0:1594x835/960x504/media/img/mt/2018/12/BH_1300lede_1/original.gif">
 
 
 </br>
