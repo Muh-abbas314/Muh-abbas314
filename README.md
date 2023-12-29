@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <img alt="react-gif" width="100%" src="https://miro.medium.com/v2/resize:fit:1000/1*nwhfNwNtPw-bPg8WC9uCBg.gif"> -->
-<video width="100%" autoplay muted>
-  <source src="https://i.imgur.com/F4ztSGV.mp4" type="video/mp4">
+<img alt="react-gif" width="100%" src="https://cdn.theatlantic.com/thumbor/XdXoNLVVKQfgmI1GFNYaXsuArKY=/3x0:1594x835/960x504/media/img/mt/2018/12/BH_1300lede_1/original.gif">
+
   <!-- <source src="movie.ogg" type="video/ogg"> -->
   Your browser does not support the video tag.
 </video>
