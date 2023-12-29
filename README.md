@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="react-gif" width="100%" src="https://miro.medium.com/v2/resize:fit:1000/1*nwhfNwNtPw-bPg8WC9uCBg.gif">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/JyIG8O5"  ><a href="//imgur.com/a/JyIG8O5">STEAM Black Hole Wallpaper </a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </br>
 <h1 align="center">Hi 👋, I'm Muhammad Abbas</h1>
 <h3 align="center">I am a Software Engineer & Tech Enthusiast from Lahore, Pakistan</h3>
